@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+body{
+    background-color: yellow;
+    text-align: center;
+    display: inline;
+}
+#f1{
+    display: inline;
+}
+#f2{
+    display: inline;
+}
